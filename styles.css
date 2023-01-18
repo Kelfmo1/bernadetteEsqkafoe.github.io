@@ -31,7 +31,9 @@ li a {
 li a:hover:not(.active) {
   background-color: #111;
 }
-
+.active{
+    background-color:#120012;
+}
 
 #newsPic{
   float: left;
