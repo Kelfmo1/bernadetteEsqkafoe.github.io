@@ -1,2 +1,2 @@
 # bernadetteEsqkafoe.github.io
-Public profile
+Public profile static website
